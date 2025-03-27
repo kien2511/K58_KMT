@@ -3,7 +3,7 @@
 # yêu cầu 
 tuần 1: 
 lập dàn ý cho đồ án : quản lý quá trình làm đồ án của các sinh viên 
-dàn ý đồ án của em gồm 4 chương:
+dàn ý đồ án của em gồm 6 chương:
 ## chương 1: giới thiệu đề tài 
 1 tổng quan vấn đề
 1.1 Lý do chọn đề tài 
