@@ -77,7 +77,7 @@ dàn ý đồ án của em gồm 4 chương:
 4.2 mô hình dữ liệu quan hệ
 4.3 thiết kế giao diện người dùng 
 4.4 quy trình hoạt động của hệ thống 
-## chương 5 : triển khai hệ thóng sử sụng sql sever
+## chương 5 : triển khai hệ thống sử sụng sql sever
 5.1 cấu trúc cơ sở dữ liệu 
 5.2 các bảng trong hệ thống 
 5.3 các truy vấn sql chính 
