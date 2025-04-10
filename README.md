@@ -4,73 +4,149 @@
 tuần 1: 
 lập dàn ý cho đồ án : quản lý quá trình làm đồ án của các sinh viên 
 dàn ý đồ án của em gồm 6 chương:
-# chương 1: giới thiệu đề tài
 
-1 tổng quan vấn đề
+MỤC LỤC	
 
-1.1 Lý do chọn đề tài 
+LỜI CAM ĐOAN	
 
-1.2 mục tiêu nghiên cứu
+DANH MỤC	
 
-1.3 phạm vi nghiên cứu
+CÁC TỪ VIẾT TẮT	
 
-1.4 phương pháp nghiên cứu
+DANH MỤC CÁC BẢNG VÀ HÌNH VẼ, ĐỒ THỊ	
 
-## chương 2: tổng quan về quản lý đồ án của sinh viên 
+LỜI NÓI ĐẦU	9
 
-2.1 khái niệm về đồ án và quản lý đồ án 
+CHƯƠNG 1. KHẢO SÁT HỆ THỐNG
 
-2.1.1 khái niệm về đồ án 
+1.1. Thực trạng của hệ thống	
 
-2.1.2 khái niệm về quản lý đồ án 
+1.1.1. Giới thiệu chung về trường đại học kĩ thuật công nghiệp
 
-2.2 vai trò của đồ án trong quá trình đào tạo
+1.1.2 Sơ đồ tổ chức quản lý đồ án	
 
-2.3 thực trạng quản lý đồ án tại trường đại học kĩ thuật công nghiệp 
+1.1.3 Hoạt động của hệ thống hiện tại	
 
-2.4 những khó khăn và thách thức
+1.2. yêu cầu của hệ thống mới	
 
-## chương 3: phân tích hệ thống 
+1.2.1 Những vấn đề cần tháo gỡ trong quản lý đồ án
 
-3.1 mô tả bài toán quản lý đồ án 
+1.2.2 Tin học hóa trong công tác quản lý
 
-3.2 các đối tương tham gia vào hệ thống
+1.2.3 Yêu cầu phát sinh hệ thống mới	
 
-3.3 chức năng chính của hệ thống 
+CHƯƠNG 2. PHÂN TÍCH HỆ THỐNG	
 
-3.4 yêu cầu của hệ thống 
+2.1. Phân tích thông tin vào ra của hệ thống	
 
-## chương 4 : thiết kế hệ thống  
+2.1.1 Thông tin vào hệ thống thông tin	
 
-4.1 mô hình thực thể kết hợp (ERD)
+2.1.2 Thông tin ra của hệ thống thông tin	
 
-4.2 mô hình dữ liệu quan hệ
+Hệ thống xử lý thông tin	
 
-4.3 thiết kế giao diện người dùng 
+2.2.	Phân tích hệ thống	
 
-4.4 quy trình hoạt động của hệ thống 
+2.2.1.	Biểu đồ usecase
 
-## chương 5 : triển khai hệ thống sử sụng sql sever
+2.2.2.	Biểu đồ lớp	
 
-5.1 cấu trúc cơ sở dữ liệu
+2.2.3.	Biểu đồ trạng thái	
 
-5.2 các bảng trong hệ thống 
+2.2.4.	Biểu đồ hoạt động
 
-5.3 các truy vấn sql chính 
+CHƯƠNG 3. THIẾT KẾ HỆ THỐNG	
 
-5.4 kết nối hệ thống 
+3.1. Thiết kế cơ sở dữ liệu
 
-## chương 6: đánh giá và kết luận 
+3.1.2. Mô tả chi tiết cơ sở dữ liệu	
 
-6.1 đánh giá hiệu quả của hệ thống 
+3.1.3. Sơ đồ thực thể liên kết	
 
-6.2 ưu điểm và hạn chế của hệ thống 
+3.2. Thiết kế hệ thống phần mềm
 
-6.3 định hướng phát triển trong tương lai 
+CHƯƠNG 4. CÀI ĐẶT CHƯƠNG TRÌNH	
 
-6.4 kết luận 
+4.1. Giới thiệu chung về ngôn ngữ sql sever
 
-6.5 tài liệu tham khảo
+4.2. Kiểm thử chương trình	
+
+CHƯƠNG 5. NHẬN XÉT VÀ ĐÁNH GIÁ VỀ HỆ THỐNG
+
+5.1. Những kết quả đã đạt được	
+
+5.2. Hướng phát triển của đề tài
+KẾT LUẬN	
+
+TÀI LIỆU THAM KHẢO	
+
+
+## TUẦN 2
+ĐƯA RA DANH SÁCH CÁC BẢNG DỮ LIỆU + CÁC TRƯỜNG VỚI KIỂU DỮ LIỆU PHÙ HỢP, PK, FK, CK HỢP LÝ => DEADLINE: 23H59 11.4.2024
+
+BẢNG SINH VIÊN 
+MSSV LÀ KHÓA CHÍNH (PK)
+![image](https://github.com/user-attachments/assets/54611e78-7bc2-40bf-8db7-43dde48433cd)
+
+BẢNG GIẢNG VIÊN 
+MÃ GIẢNG VIÊN LÀ KHÓA CHÍNH (PK)
+![image](https://github.com/user-attachments/assets/3ec778ab-6788-4f50-9a05-158d7faed67e)
+
+BẢNG QUẢN TRỊ VIÊN 
+MÃ QUẢN TRỊ VIÊN LÀ KHÓA CHÍNH 
+![image](https://github.com/user-attachments/assets/900ca8fc-4345-4fdf-b63a-867269271b6e)
+
+BẢNG ĐỀ TÀI 
+MÃ ĐỀ TÀI LÀ KHÓA CHÍNH 
+KHÓA NGOẠI : MSSV===> SINH VIÊN(MSSV)   MÃ GV===>GIẢNG VIÊN(MÃ GV)
+![image](https://github.com/user-attachments/assets/4920b397-7a6d-461e-ba61-4806663a8167)
+
+BẢNG PHẢN HỒI 
+MÃ PHẢN HỒI LÀ KHÓA CHÍNH 
+KHÓA PHỤ: MA_BAO-CAO===> NOPBAOCAO(MA_BAO_CAO)  MA_GV===>GIANGVIEN(MA_GV)
+![image](https://github.com/user-attachments/assets/0085c528-3c5e-4709-b062-612a70778850)
+
+BẢNG NỘP BÁO CÁO 
+MÃ BÁO CÁO LÀ KHÓA CHÍNH 
+KHÓA NGOẠI: MA_DE_TAI===>DETAI(MA_DE_TAI)
+![image](https://github.com/user-attachments/assets/1b656152-c918-4ae7-9ef1-d50436259098)
+
+BẢNG CHẤM ĐIỂM 
+MA_CHAM_DIEM LÀ KHÓA CHÍNH 
+KHÓA PHỤ: MA_BAO-CAO===> NOPBAOCAO(MA_BAO_CAO)
+![image](https://github.com/user-attachments/assets/54d6ff5f-bcba-4f16-a479-97156cd2577d)
+
+BẢNG MỐC THỜI GIAN
+MA_MOC LÀ KHÓA CHÍNH 
+KHÔNG CÓ KHÓA NGOẠI 
+![image](https://github.com/user-attachments/assets/7ea908dd-d55c-4771-a921-59159aed304a)
+
+BẢNG BÁO CÁO THỐNG KÊ
+MA_BAO_CAO LÀ KHÓA CHÍNH 
+KHÔNG CÓ KHÓA NGOẠI 
+![image](https://github.com/user-attachments/assets/48079afb-940d-4bdc-bc97-a60ba26870e1)
+
+
+KHÓA RÀNG BUỘC 
+
+BẢNG ĐỀ TÀI
+KHÓA RÀNG BUỘC TRẠNG THÁI 
+![image](https://github.com/user-attachments/assets/713f641b-613f-4aa4-a0b9-5ae2f7196e24)
+
+BẢNG CHẤM ĐIỂM
+KHÓA RÀNG BUỘC ĐIỂM
+![image](https://github.com/user-attachments/assets/631a54de-c585-4b60-b6bc-f2d75973d05b)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
